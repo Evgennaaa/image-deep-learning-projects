@@ -17,7 +17,7 @@
 
 ## Данные
 
-- Набор изображений: [hymenoptera_data.zip](https://download.pytorch.org/tutorial/hymenoptera_data.zip), две категории — `ants` и `bees`.
+- Набор изображений: hymenoptera_data, две категории — `ants` и `bees`.
 
 ## Содержание работы
 
